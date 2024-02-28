@@ -64,7 +64,8 @@ The project also offers limited analytics upon user request:
 
 A Telegram bot has been crafted to enhance user interaction and streamline operations within the project. This both serves as a user-friendly interface, providing convenient access to various functionalities and features offered by the project. Users can seamlessly navigate through different commands and receive real-time updates, predictions, and analytical insights with the help of Telegram bot.
 ## Demonstration
-[(demonstartion.mp4)](https://github.com/o-frolova/F1PredictionPoints/blob/main/demonstration.mp4)
+
+https://github.com/o-frolova/F1PredictionPoints/assets/128040555/872bce69-8d27-4adc-9a1b-0850f467faac
 
 ## References
 - https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020

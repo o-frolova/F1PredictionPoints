@@ -19,6 +19,7 @@
     |   ├── main.py                     # The main file that runs the telegram bot
     |   └── prediction.py               # Module for predicting results
     ├── README.md                       # Project description file
+    ├── demonstration.mp4               # demo video 
     ├── f1dataset.csv                   # The main dataset
     ├── model_predict                   # The trained model
     └── requirements.txt                # The file with project dependencies
@@ -63,7 +64,7 @@ The project also offers limited analytics upon user request:
 
 A Telegram bot has been crafted to enhance user interaction and streamline operations within the project. This both serves as a user-friendly interface, providing convenient access to various functionalities and features offered by the project. Users can seamlessly navigate through different commands and receive real-time updates, predictions, and analytical insights with the help of Telegram bot.
 ## Demonstration
-[![Видео-демонстрация проекта](https://example.com/screenshot.png)](https://drive.google.com/file/d/1cg_7w7k4daUwzlLbqbXevPNbZpe7H3Wi/view?usp=sharing)
+[(demonstartion.mp4)](https://github.com/o-frolova/F1PredictionPoints/blob/main/demonstration.mp4)
 
 ## References
 - https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
